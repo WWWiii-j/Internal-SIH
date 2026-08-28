@@ -1,4 +1,4 @@
-# E-Consultation AI — SIH 2025 PS-25035
+# E-Consultation AI — PS-25035
 
 An AI-powered platform for analyzing stakeholder comments received through the Government e-Consultation module.
 
